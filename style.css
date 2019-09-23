@@ -1,16 +1,27 @@
 .bgbox{
-    height:100vw;
     width:100%;
     background-color:lightsteelblue;
+    align-content: center;
     z-index: -1
 }
 
 .innerbox{
     width:80%;
-    height: 80vw;
     background-color:whitesmoke;
     z-index: 0;
+    padding: 10px;
 }
 h1{
     text-align:center;
+}
+
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
+
+.page-footer{
+background-color: 
+
 }
